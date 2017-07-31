@@ -18,7 +18,7 @@ var center = function(coordinatesArray){
     return [(minX + maxX) /2, (minY + maxY) /2];
 }
 
-var mycenter = center(coords);
+var mycenter = center(coordinatesArray);
 console.log(mycenter);
 ```
 
@@ -59,7 +59,7 @@ Agridata is an editor, integrator of IT solutions for 100% of the agricultural e
 * Fixe    : (212) 528 82 84 44
 * Fax     : (212) 528 82 59 49
 * Email   : contact@agridata-consulting.com
-* Check-out: [Check-out](http://agridata-consulting.com)
+* [Check-out](http://agridata-consulting.com)
 
 
 
