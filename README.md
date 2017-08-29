@@ -51,7 +51,7 @@ CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-## Owner
+## 
 
 Agridata is an editor, integrator of IT solutions for 100% of the agricultural ecosystem. Our objective is to help agriculture to be more profitable, more competitive and more environmentally friendly through better use of data.
 * Adresse : Agridata Consulting, Imm.Azizia, 2ème ét, Av .Hassan || AGADIR
